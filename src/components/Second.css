@@ -1,0 +1,41 @@
+.list{
+    list-style-type: none;
+
+}
+.form-box1{
+    
+    position: absolute;
+    left: 20%;
+    top:10%;
+    align-items: center;
+    background-color: white;
+    border: 4px solid white;
+    border-radius: 10px;
+   
+}
+.form1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    height: 500px;
+    width:800px;
+}
+
+li{
+    padding: 1rem;
+    font-size: 20px;
+    margin-top: 2px;
+    border: 2px solid black;
+    width:700px;
+    border-radius: 5px;
+    /* text-decoration: none; */
+}
+.hov :hover{
+    background-color: rgb(243, 168, 233);
+    color: white;
+    text-decoration: none;
+}
+.bt{
+    margin-left: 80%;
+}

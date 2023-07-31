@@ -1,0 +1,19 @@
+.photo-box{
+    position: absolute;
+    left: 30%;
+    top:20%;
+    align-items: center;
+    background-color: white;
+    border: 4px solid white;
+    border-radius: 10px;
+   
+}
+.photo{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: center;
+    height: 300px;
+    width: 500px;
+    
+}
